@@ -1,0 +1,5 @@
+Epoch 1: Loss = 0.5, Accuracy = 0.8, Execution Time = 12.34s
+Epoch 2: Loss = 0.4, Accuracy = 0.85, Execution Time = 11.50s
+Epoch 3: Loss = 0.35, Accuracy = 0.88, Execution Time = 10.99s
+Epoch 4: Loss = 0.3, Accuracy = 0.9, Execution Time = 11.25s
+Epoch 5: Loss = 0.28, Accuracy = 0.91, Execution Time = 10.80s
